@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning at PTIT
 - 💞️ I’m looking to collaborate on VT
-- 📫 How to reach me: FB is my name
+- 📫 Facebook:https://www.facebook.com/profile.php?id=100007303278743
 
 <!---
 CuongCC1/CuongCC1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
