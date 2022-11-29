@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Dang Quoc Cuong
-- 👀 I’m interested in 
 - 🌱 I’m currently learning at PTIT
-- 💞️ I’m looking to collaborate on VT
 - 📫 Facebook:https://www.facebook.com/profile.php?id=100007303278743
 
 <!---
